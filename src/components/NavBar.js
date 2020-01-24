@@ -24,19 +24,23 @@ const Navigation = props => {
         <Collapse isOpen={!collapsed} navbar>
           <Nav navbar>
             <NavItem>
-              <NavLink href="#">Find Wellvana Provider</NavLink>
+              <NavLink href="http://wellvana.com/markets/">
+                Find Wellvana Provider
+              </NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="#">Patient Resources</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#">TeleMedicine</NavLink>
+              <NavLink href="https://apps.apple.com/us/app/sherpaa/id934508304">
+                TeleMedicine
+              </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#">Pratter.us</NavLink>
+              <NavLink href="https://pratter.us/">Pratter.us</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#">Access Plan Info</NavLink>
+              <NavLink href="http://altrisk.com/">Access Plan Info</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="#">Care Management</NavLink>
