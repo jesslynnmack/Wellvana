@@ -6,6 +6,7 @@ import { ButtonGroup } from "reactstrap";
 import "./App.css";
 import Link from "./components/Links";
 import Navigation from "./components/NavBar";
+import Contacts from "./components/Contact";
 
 class App extends Component {
   render() {
@@ -21,7 +22,7 @@ class App extends Component {
               url="http://wellvana.com/markets/"
               className="my-button"
               image="http://wellvana.com/wp-content/uploads/2019/10/wellvana-graphic-icons2_0005_motus-creative-group-marketing-agency-service-icons-branding-Asset-1.png"
-              text="Find a Wellvana Provider"
+              text="Find a Provider"
             ></Link>
             <Link
               url="#"
@@ -55,6 +56,12 @@ class App extends Component {
               text="Care Management"
             ></Link>
           </ButtonGroup>
+        </div>
+        <div className="contactUs">
+          <Contacts
+            url="http://wellvana.com/contact-us/"
+            text="Contact Us"
+          ></Contacts>
         </div>
       </div>
     );

@@ -19,6 +19,11 @@
   padding: 15%;
 }
 
+.contactUs .btn {
+  color: #071454;
+  background-color: white;
+}
+
 .form-group label {
   color: white;
 }
