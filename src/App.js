@@ -56,6 +56,26 @@ class App extends Component {
               text="Care Management"
             ></Link>
           </ButtonGroup>
+          <ButtonGroup size="lg">
+            <Link
+              url="http://wellvana.com/wp-content/uploads/2020/02/Alpha-listing-Wellvana-merged-Alpha.pdf"
+              className="my-button"
+              image="http://wellvana.com/wp-content/uploads/2019/10/wellvana-graphic-icons-1_0002_Layer-18.png"
+              text="Physicians"
+            ></Link>
+            <Link
+              url="http://wellvana.com/wp-content/uploads/2020/02/2019-Wellvana-Providers-Directory-Specialties.pdf"
+              image="http://wellvana.com/wp-content/uploads/2019/10/wellvana-graphic-icons2_0000_motus-creative-group-marketing-agency-service-icons-branding-Asset-6.png"
+              text="Specialties"
+            ></Link>
+          </ButtonGroup>
+          <ButtonGroup size="lg">
+            <Link
+              url="http://wellvana.com/wp-content/uploads/2020/02/2019-Wellvana-Providers-Directory-Practice.pdf"
+              image="http://wellvana.com/wp-content/uploads/2019/10/wellvana-graphic-icons-1_0008_Layer-13.png"
+              text="Practices"
+            ></Link>
+          </ButtonGroup>
         </div>
         <div className="contactUs">
           <Contacts

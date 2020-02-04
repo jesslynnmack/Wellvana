@@ -45,6 +45,21 @@ const Navigation = props => {
             <NavItem>
               <NavLink href="#">Care Management</NavLink>
             </NavItem>
+            <NavItem>
+              <NavLink href="http://wellvana.com/wp-content/uploads/2020/02/Alpha-listing-Wellvana-merged-Alpha.pdf">
+                Physicians
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="http://wellvana.com/wp-content/uploads/2020/02/2019-Wellvana-Providers-Directory-Specialties.pdf">
+                Specialties
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="http://wellvana.com/wp-content/uploads/2020/02/2019-Wellvana-Providers-Directory-Practice.pdf">
+                Practices
+              </NavLink>
+            </NavItem>
           </Nav>
         </Collapse>
       </Navbar>
