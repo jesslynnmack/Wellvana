@@ -37,7 +37,7 @@ const Navigation = props => {
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="https://pratter.us/">Pratter.us</NavLink>
+              <NavLink href="https://pratter.us/">Financial Resources</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="http://altrisk.com/">Access Plan Info</NavLink>
