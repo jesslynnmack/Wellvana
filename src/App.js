@@ -47,7 +47,7 @@ class App extends Component {
             </ButtonGroup>
           </div>
           <div className="peerAccess">
-            <h1>Peer Access</h1>
+            <h1>Care Resources</h1>
             <ButtonGroup size="lg">
               <Link
                 url="https://apps.apple.com/us/app/sherpaa/id934508304"
